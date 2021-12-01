@@ -1,0 +1,9 @@
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\bin\Debug\P4_1_1204044.exe.config
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\bin\Debug\P4_1_1204044.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\bin\Debug\P4_1_1204044.pdb
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\obj\Debug\P4_1_1204044.csprojResolveAssemblyReference.cache
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\obj\Debug\P4_1_1204044.Form1.resources
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\obj\Debug\P4_1_1204044.Properties.Resources.resources
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\obj\Debug\P4_1_1204044.csproj.GenerateResource.Cache
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\obj\Debug\P4_1_1204044.exe
+c:\users\user\onedrive\gambar\dokumen\visual studio 2015\Projects\P4_1_1204044\P4_1_1204044\obj\Debug\P4_1_1204044.pdb
